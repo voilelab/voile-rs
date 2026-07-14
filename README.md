@@ -3,6 +3,10 @@
 <h1>Voile<br/><sub>A personal book reading app.</sub></h1>
 </div>
 
+
+> [!WARNING]
+> voile-rs is no longer under active development. For an actively maintained digital bookshelf app, check out [PlainShelf](https://github.com/voilelab/plainshelf).
+
 Voile is a app designed for personal book reading that supports various file formats. It allows users to store their preferred book format, be it a folder of images or texts, for easy reading.
 
 <a href="https://www.flaticon.com/free-icons/bookshelf" title="bookshelf icons">Bookshelf icons created by Freepik - Flaticon</a>
